@@ -4,21 +4,21 @@
 This project involves a Python program that converts a given string of words into a sequence of numbers based on their positions in the alphabet. The converted numbers can then be translated back to the original string using the same mapping.
 # Features
 
-    Converts words into numeric sequences based on alphabetical positions.
-    Supports conversion of uppercase and lowercase letters.
-    Handles multiple words and sentences.
-    Provides a reverse operation to convert numbers back to the original text.
+- Converts words into numeric sequences based on alphabetical positions.
+- Supports conversion of uppercase and lowercase letters.
+- Handles multiple words and sentences.
+- Provides a reverse operation to convert numbers back to the original text.
 
 # Technologies Used
 
-    Programming Language: Python
-    Libraries: None (Pure Python implementation)
-Getting Started
-Prerequisites
+- Programming Language: Python
+- Libraries: None (Pure Python implementation)
+# Getting Started
+- Prerequisites
 
-    Python 3.7 or higher
+Python 3.7 or higher
 
-Installation
+- Installation
 
 Clone the repository:
 
